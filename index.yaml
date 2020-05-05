@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  pgwatch2:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-05-05T06:59:30.88739+02:00"
+    description: cybertec/pgwatch2 chart
+    digest: f19b6e98e55dac7a6acb26d397e424f1f75d71417d72377449bdf1220b490e3f
+    home: https://pgwatch.com/
+    name: pgwatch2
+    urls:
+    - pgwatch2-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-05-05T06:59:30.885671+02:00"
