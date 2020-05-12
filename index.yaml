@@ -3,9 +3,9 @@ entries:
   official-pgwatch2:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-05-12T19:39:06.46006996Z"
+    created: "2020-05-12T20:14:26.288409404Z"
     description: A Helm chart for pgwatch2 monitoring tools
-    digest: 322931e38513cbccd326488e9c1491704036f8e26df8989d3ad9f0ad6152345b
+    digest: 0db06c6926987b27b80a6f2d7f59119247eb3f96c6f51fab3ba3e4ebb1acd4f3
     name: official-pgwatch2
     urls:
     - official-pgwatch2-0.1.0.tgz
@@ -13,7 +13,17 @@ entries:
   pgwatch2:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-05-12T19:39:06.461396666Z"
+    created: "2020-05-12T20:14:26.292012399Z"
+    description: cybertec/pgwatch2 chart
+    digest: e85c72c694834b2aa807ad120672c4d00f142466eb7fdec4afe14357589b3ec6
+    home: https://pgwatch.com/
+    name: pgwatch2
+    urls:
+    - pgwatch2-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-05-12T20:14:26.291103001Z"
     description: cybertec/pgwatch2 chart
     digest: 6b42c7aece850d197d0bf2873f1aef549478177d5bb85ed1b83f1e92359f614b
     home: https://pgwatch.com/
@@ -23,7 +33,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-05-12T19:39:06.460968964Z"
+    created: "2020-05-12T20:14:26.290178202Z"
     description: cybertec/pgwatch2 chart
     digest: 7d9150e5cd5548e10c6767a6b76434bde5723caf1db49883c5bebe04025c535e
     home: https://pgwatch.com/
@@ -33,7 +43,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-05-12T19:39:06.460541062Z"
+    created: "2020-05-12T20:14:26.289334403Z"
     description: cybertec/pgwatch2 chart
     digest: 5bef1af4a921edc5baf24a7249b3378448a7b29cabeb5210038b04d3a15506a8
     home: https://pgwatch.com/
@@ -41,4 +51,4 @@ entries:
     urls:
     - pgwatch2-0.1.0.tgz
     version: 0.1.0
-generated: "2020-05-12T19:39:06.459048455Z"
+generated: "2020-05-12T20:14:26.234287973Z"
