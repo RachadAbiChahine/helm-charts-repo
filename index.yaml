@@ -3,7 +3,7 @@ entries:
   official-pgwatch2:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-05-12T21:30:24.503923739Z"
+    created: "2020-05-19T22:03:59.36002899Z"
     description: A Helm chart for pgwatch2 monitoring tools
     digest: eaacf732fd98c3a257a62346fac463c89378a67c8f1c21f77f10c0ea9495d750
     name: official-pgwatch2
@@ -13,9 +13,9 @@ entries:
   pgwatch2:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-05-12T21:30:24.506205545Z"
+    created: "2020-05-19T22:03:59.396222817Z"
     description: cybertec/pgwatch2 chart
-    digest: 7311ee24c67c331f2f418b7c14ec576c53d0317431637f5c5910f01186011c90
+    digest: 1e71ccafa0424dca17a3d5235c2df34c9aeb3c1c5475c5fbffe62c393518268d
     home: https://pgwatch.com/
     name: pgwatch2
     urls:
@@ -23,7 +23,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-05-12T21:30:24.505714144Z"
+    created: "2020-05-19T22:03:59.361978049Z"
     description: cybertec/pgwatch2 chart
     digest: e85c72c694834b2aa807ad120672c4d00f142466eb7fdec4afe14357589b3ec6
     home: https://pgwatch.com/
@@ -33,7 +33,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-05-12T21:30:24.505236243Z"
+    created: "2020-05-19T22:03:59.361476031Z"
     description: cybertec/pgwatch2 chart
     digest: 6b42c7aece850d197d0bf2873f1aef549478177d5bb85ed1b83f1e92359f614b
     home: https://pgwatch.com/
@@ -43,7 +43,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-05-12T21:30:24.504783741Z"
+    created: "2020-05-19T22:03:59.361035427Z"
     description: cybertec/pgwatch2 chart
     digest: 7d9150e5cd5548e10c6767a6b76434bde5723caf1db49883c5bebe04025c535e
     home: https://pgwatch.com/
@@ -53,7 +53,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-05-12T21:30:24.50438164Z"
+    created: "2020-05-19T22:03:59.360491399Z"
     description: cybertec/pgwatch2 chart
     digest: 5bef1af4a921edc5baf24a7249b3378448a7b29cabeb5210038b04d3a15506a8
     home: https://pgwatch.com/
@@ -61,4 +61,4 @@ entries:
     urls:
     - pgwatch2-0.1.0.tgz
     version: 0.1.0
-generated: "2020-05-12T21:30:24.502672335Z"
+generated: "2020-05-19T22:03:59.358806302Z"
